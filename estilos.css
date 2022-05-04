@@ -1,0 +1,19 @@
+p {
+  color:black;
+  text-align:left;
+  }
+h1 {
+   color:Gold;
+   text-align:center;
+   font-family: verdana;
+   font-size: 150%;
+   }   
+body {
+     background-color: DarkTurquoise;
+     }
+h2 {
+    color:Gold;
+    text-align:center;
+    font-family: verdana;
+    font-size: 120%;
+   }   
